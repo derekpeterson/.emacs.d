@@ -1,0 +1,1 @@
+Forked from the `.emacs.d` set-up provided by [Brave Clojure](http://www.braveclojure.com/basic-emacs/#Configuration).
